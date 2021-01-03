@@ -1,0 +1,38 @@
+.links {
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    color: midnightblue;
+    text-align: center;
+}
+.img{
+    height: 600px;
+    width: 600px;
+    border-radius: 50%;
+    border-style:dashed; 
+    border-color: grey;
+}
+body{
+    background-color:red;
+    color:white;
+    text-align: center;
+}
+.planets{
+    background-color: orangered;
+    text-align: center;
+    height: 800px;
+    width: 800px;
+}
+#footer_div{
+    background-color: darkred;
+    color: #fffffe;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+    font-size: 18px;
+}
